@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/nateb4n8.github.io/nathanacosta/static/css/main.7aaa0b4b.chunk.css",
-    "main.js": "/nateb4n8.github.io/nathanacosta/static/js/main.a54ba24d.chunk.js",
-    "main.js.map": "/nateb4n8.github.io/nathanacosta/static/js/main.a54ba24d.chunk.js.map",
-    "runtime-main.js": "/nateb4n8.github.io/nathanacosta/static/js/runtime-main.e5625ff4.js",
-    "runtime-main.js.map": "/nateb4n8.github.io/nathanacosta/static/js/runtime-main.e5625ff4.js.map",
-    "static/js/2.e6a3b719.chunk.js": "/nateb4n8.github.io/nathanacosta/static/js/2.e6a3b719.chunk.js",
-    "static/js/2.e6a3b719.chunk.js.map": "/nateb4n8.github.io/nathanacosta/static/js/2.e6a3b719.chunk.js.map",
-    "index.html": "/nateb4n8.github.io/nathanacosta/index.html",
-    "static/css/main.7aaa0b4b.chunk.css.map": "/nateb4n8.github.io/nathanacosta/static/css/main.7aaa0b4b.chunk.css.map",
-    "static/js/2.e6a3b719.chunk.js.LICENSE.txt": "/nateb4n8.github.io/nathanacosta/static/js/2.e6a3b719.chunk.js.LICENSE.txt"
+    "main.css": "/nathanacosta/static/css/main.7aaa0b4b.chunk.css",
+    "main.js": "/nathanacosta/static/js/main.a54ba24d.chunk.js",
+    "main.js.map": "/nathanacosta/static/js/main.a54ba24d.chunk.js.map",
+    "runtime-main.js": "/nathanacosta/static/js/runtime-main.f46a6914.js",
+    "runtime-main.js.map": "/nathanacosta/static/js/runtime-main.f46a6914.js.map",
+    "static/js/2.e6a3b719.chunk.js": "/nathanacosta/static/js/2.e6a3b719.chunk.js",
+    "static/js/2.e6a3b719.chunk.js.map": "/nathanacosta/static/js/2.e6a3b719.chunk.js.map",
+    "index.html": "/nathanacosta/index.html",
+    "static/css/main.7aaa0b4b.chunk.css.map": "/nathanacosta/static/css/main.7aaa0b4b.chunk.css.map",
+    "static/js/2.e6a3b719.chunk.js.LICENSE.txt": "/nathanacosta/static/js/2.e6a3b719.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5625ff4.js",
+    "static/js/runtime-main.f46a6914.js",
     "static/js/2.e6a3b719.chunk.js",
     "static/css/main.7aaa0b4b.chunk.css",
     "static/js/main.a54ba24d.chunk.js"

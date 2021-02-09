@@ -53,7 +53,7 @@ export default function Header() {
         <Avatar
           id="nathan-avatar"
           alt="Nathan Acosta Avatar"
-          src="/images/nathan.jpg"
+          src={window.data.header.avatarHref}
           className={classes.avatar}
         />
       </Grid>

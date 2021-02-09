@@ -94,5 +94,8 @@ var data = {
     githubHref: 'https://github.com/nateb4n8',
     linkedin: 'https://www.linkedin.com/in/nathan-acosta/',
     email: 'nateb4n8@gmail.com',
+  },
+  header: {
+    avatarHref: './images/nathan.jpg'
   }
 };
